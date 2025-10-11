@@ -15,94 +15,33 @@ document.addEventListener('DOMContentLoaded', function () {
 
 // =================== light and dark start ================== //
 
+// Force dark theme on page load
+document.documentElement.setAttribute('data-bs-theme', 'dark');
+localStorage.setItem('theme', 'dark');
+
+// Optional: update dark images if needed
+changeImage('dark');
+
+// Disable the switch button completely (optional)
 const colorSwitcher = document.getElementById('btnSwitch');
-
-
-switchThemeByUrl();
-updateThemeColor(localStorage.getItem('theme'))
-
-
-colorSwitcher.addEventListener('click', () => {
-
-    const theme = localStorage.getItem('theme');
-
-    if (theme && theme === 'dark') {
-
-        updateThemeColor('light');
-
-    } else {
-        updateThemeColor('dark');
-
-    }
-
-});
-
-function updateThemeColor(themeMode = 'light') {
-
-    document.documentElement.setAttribute('data-bs-theme', themeMode);
-    localStorage.setItem('theme', themeMode)
-
-    if (themeMode === 'dark') {
-        colorSwitcher.classList.add('dark-switcher');
-
-    } else {
-        colorSwitcher.classList.remove('dark-switcher');
-    }
-
-    changeImage(themeMode);
-
+if (colorSwitcher) {
+  colorSwitcher.style.display = 'none'; // hides the toggle
 }
 
+// Keep your existing image update function
+function changeImage(themeMode = 'dark') {
+  const icon = document.querySelector('#btnSwitch img');
+  if (icon) icon.src = './assets/images/icon/sun.svg'; // optional, not visible if hidden
 
-
-function switchThemeByUrl() {
-    const urlParams = new URLSearchParams(window.location.search);
-    const theme = urlParams.get('theme');
-
-    if (theme) {
-        localStorage.setItem("theme", theme);
-    }
-
-}
-
-// =================== light and dark end ================== //
-
-
-
-
-// =================== Change image path start ================== //
-
-
-function changeImage(themeMode = 'light') {
-
-    const icon = document.querySelector('#btnSwitch img');
-
-
-    if (themeMode === "dark") {
-
-        icon.src = './assets/images/icon/sun.svg';
-        var images = document.querySelectorAll('img.dark');
-
-        for (var i = 0; i < images.length; i++) {
-            var oldSrc = images[i].src;
-            oldSrc = oldSrc.replace("-dark.", ".");
-            var oldIndex = oldSrc.lastIndexOf(".");
-            var baseName = oldSrc.slice(0, oldIndex);
-            var extension = oldSrc.slice(oldIndex);
-            var newSrc = baseName + "-dark" + extension;
-            images[i].src = newSrc;
-        }
-    } else {
-        icon.src = './assets/images/icon/moon.svg';
-        var images = document.querySelectorAll('img.dark');
-
-        for (var i = 0; i < images.length; i++) {
-            var oldSrc = images[i].src;
-            var newSrc = oldSrc.replace("-dark.", ".");
-            images[i].src = newSrc;
-        }
-    }
-
+  var images = document.querySelectorAll('img.dark');
+  for (var i = 0; i < images.length; i++) {
+    var oldSrc = images[i].src;
+    var oldIndex = oldSrc.lastIndexOf(".");
+    var baseName = oldSrc.slice(0, oldIndex);
+    var extension = oldSrc.slice(oldIndex);
+    var newSrc = baseName + "-dark" + extension;
+    images[i].src = newSrc;
+  }
 }
 
 

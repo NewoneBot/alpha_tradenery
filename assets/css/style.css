@@ -485,7 +485,7 @@ ol {
 
 /* @@@@@@@@@@@@@  aditional Property CSS Writing Now  @@@@@@@@@@@@@@ */
 :root {
-  --brand-color: #00D094;
+  --brand-color: #d0a94b;
   --secondary-color:#0A4FD5;
   --tertiary-color: #E0FAF2;
   --tertiary-color2: #F5F7FC;
@@ -587,8 +587,8 @@ ol {
 }
 
 [data-bs-theme=dark] {
-  --brand-color:#00D094;
-  --secondary-color:#00D094;
+  --brand-color:#d0a94b;
+  --secondary-color:#d0a94b;
   --tertiary-color:#002A1E;
   --tertiary-color2:#002A1E;
   --tertiary-color3:#0E221E;
