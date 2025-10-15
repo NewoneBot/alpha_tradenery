@@ -21,16 +21,16 @@
                     <a href="About.php">About</a>
                   </li>
                   <li>
-                    <a href="">Services</a>
+                    <a href="service-details.php">Services</a>
                     <ul class="submenu">
                       <li>
-                        <a href="service-details.html">Services Details</a>
+                        <a href="service-details.php">Services Details</a>
                       </li>
                       <li>
-                        <a href="service-details.html">Services Details</a>
+                        <a href="service-details.php">Services Details</a>
                       </li>
                       <li>
-                        <a href="service-details.html">Services Details</a>
+                        <a href="service-details.php">Services Details</a>
                       </li>
                     </ul>
                   </li>

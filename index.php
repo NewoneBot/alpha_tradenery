@@ -31,7 +31,7 @@
 
 
 
-  <link rel="shortcut icon" href="assets/images/favicon.png" type="image/x-icon">
+  <link rel="shortcut icon" href="assets/images/logo/APfavicon.png" type="image/x-icon">
 
   <link rel="stylesheet" href="assets/css/bootstrap.min.css">
   <link rel="stylesheet" href="assets/css/aos.css">
@@ -79,12 +79,9 @@
         <div class="row flex-md-row-reverse gx-5">
           <div class="col-lg-6 col-md-7">
             <div class="banner__content" data-aos="fade-left" data-aos-duration="1000">
-              <h1 class="banner__content-heading banner__content-heading--style2">smart solution
-                for business</h1>
+              <h1 class="banner__content-heading banner__content-heading--style2">Your Trusted Source for Professional Trading</h1>
               <p class="banner__content-moto">Are you tired of your currency not going as far as it used to? Try
-                tradingo and multiply
-                your money! With their user-friendly interface and expert market analysis, you'll be earning more in no
-                time.
+                <strong>Alpha Tradenery</strong> – your <strong>trusted trading partner</strong>, offering four premium services: <strong>Gold VIP Signals</strong>, <strong>Forex VIP Signals</strong>, <strong>Account Management</strong>, and <strong>Indices VIP Signals</strong>.
               </p>
               <div class="btn-group">
                 <a href="signin.html" class="trk-btn trk-btn--primary trk-btn--arrowplay">Get Started
@@ -136,9 +133,6 @@
 
 
 
-
-
-
   <!-- ===============>> About section start here <<================= -->
   <section class="about padding-top--style2 padding-bottom bg-color-3">
     <div class="container">
@@ -146,8 +140,8 @@
         <div class="row g-5 align-items-center">
           <div class="col-lg-6">
             <div class="section-header mb-50">
-              <h2>Experienced trading <span class="style2">platform</span>
-                to grow
+              <h2>
+                Top 3 Reasons Why <span class="style2">Traders</span> Choose Us
               </h2>
             </div>
             <div class="about__content about__content--style2" data-aos="fade-right" data-aos-duration="800">
@@ -158,9 +152,8 @@
                   </div>
                 </div>
                 <div class="about__content-details">
-                  <h5>Easy to lend</h5>
-                  <p class="mb-0">It's easy to lend a helping hand to those in need, especially when we all stick
-                    together.</p>
+                  <h5>Best Trading Services in India, Dubai & Nepal</h5>
+                  <p class="mb-0">Access the <strong>Best Paid Forex Signals Provider in India</strong> for professional and reliable trading insights</p>
                 </div>
               </div>
             </div>
@@ -172,9 +165,8 @@
                   </div>
                 </div>
                 <div class="about__content-details">
-                  <h5>Exchange money</h5>
-                  <p class="mb-0">If you need to exchange money, just hit up the currency exchange at the airport.
-                    Easy-peasy.</p>
+                  <h5>Comprehensive Forex & Gold Coverage</h5>
+                  <p class="mb-0">Trade confidently with <strong>VIP Forex</strong>, <strong>Gold Signals</strong>, and <strong>Forex Account</strong> management services</p>
                 </div>
               </div>
             </div>
@@ -186,8 +178,8 @@
                   </div>
                 </div>
                 <div class="about__content-details">
-                  <h5>Online wallet</h5>
-                  <p class="mb-0">When travelling abroad, don't forget to exchange money at the airport or a local bank.
+                  <h5>Live Daily Updates </h5>
+                  <p class="mb-0">Stay ahead with <strong>Live Daily Forex Signals India</strong> and real-time market alerts for profitable trades.
                   </p>
                 </div>
               </div>
@@ -220,93 +212,60 @@
   <section class="service padding-top padding-bottom bg-color-7">
     <div class="section-header section-header--max50">
       <h2 class="mb-10 mt-minus-5"><span class="style2">services </span>We offer</h2>
-      <p>We offer the best services around - from installations to repairs, maintenance, and more!</p>
     </div>
     <div class="container">
       <div class="service__wrapper">
         <div class="row g-4 align-items-center">
-          <div class="col-sm-6 col-md-6 col-lg-4">
+          <div class="col-sm-6 col-md-6 col-lg-6">
             <div class="service__item service__item--style2" data-aos="fade-up" data-aos-duration="800">
               <div class="service__item-inner text-center">
                 <div class="service__item-thumb mb-30">
                   <img class="dark" src="assets/images/service/1.png" alt="service-icon">
                 </div>
                 <div class="service__item-content">
-                  <h5> <a class="stretched-link" href="service-details.html">Strategy Consulting</a> </h5>
-                  <p class="mb-0">A social assistant that's flexible can accommodate your schedule and needs, making
-                    life easier.</p>
+                  <h5> <a class="stretched-link" href="service-details.html">Gold VIP Signal</a> </h5>
+                  <p class="mb-0">Get the best gold forex signals in Dubai and live gold trading alerts directly from experts. Join our Gold Forex Signal Group Dubai to maximize profits with accurate, real-time insights and expert strategies trusted by traders worldwide.</p>
                 </div>
               </div>
             </div>
           </div>
-          <div class="col-sm-6 col-lg-4">
+          <div class="col-sm-6 col-md-6 col-lg-6">
             <div class="service__item service__item--style2" data-aos="fade-up" data-aos-duration="1000">
               <div class="service__item-inner text-center">
                 <div class="service__item-thumb mb-30">
                   <img class="dark" src="assets/images/service/2.png" alt="service-icon">
                 </div>
                 <div class="service__item-content">
-                  <h5> <a class="stretched-link" href="service-details.html"> Financial Advisory</a> </h5>
-                  <p class="mb-0">Modules transform smart trading by automating processes and improving decision-making.
+                  <h5> <a class="stretched-link" href="service-details.html">Forex VIP Signal</a> </h5>
+                  <p class="mb-0">Experience No.1 Best Trading Services in India, Dubai & Nepal with our premium VIP Forex Signals. We provide live forex signals Dubai, professional forex trading signals India, and free VIP forex signals Nepal — helping you make smart, confident trading decisions every day.
                   </p>
                 </div>
               </div>
             </div>
           </div>
-          <div class="col-sm-6 col-lg-4">
+          <div class="col-sm-6 col-md-6 col-lg-6">
             <div class="service__item service__item--style2" data-aos="fade-up" data-aos-duration="1200">
               <div class="service__item-inner text-center">
                 <div class="service__item-thumb mb-30">
                   <img class="dark" src="assets/images/service/3.png" alt="service-icon">
                 </div>
                 <div class="service__item-content">
-                  <h5> <a class="stretched-link" href="service-details.html">Management</a> </h5>
-                  <p class="mb-0">There, it's me, your friendly neighborhood reporter's news analyst processes and
-                    improving</p>
+                  <h5> <a class="stretched-link" href="service-details.html">Indices VIP Signal</a> </h5>
+                  <p class="mb-0">Trade smarter with our Indices Market Signals Dubai and reliable forex signals Nepal live. Stay updated with precise signals for global indices, ensuring you never miss a profitable opportunity in the UAE Forex Dubai market.</p>
                 </div>
               </div>
             </div>
           </div>
-          <div class="col-sm-6 col-lg-4">
+          <div class="col-sm-6 col-md-6 col-lg-6">
             <div class="service__item service__item--style2" data-aos="fade-up" data-aos-duration="800">
               <div class="service__item-inner text-center">
                 <div class="service__item-thumb mb-30">
                   <img class="dark" src="assets/images/service/4.png" alt="service-icon">
                 </div>
                 <div class="service__item-content">
-                  <h5> <a class="stretched-link" href="service-details.html">Supply Optimization </a>
+                  <h5> <a class="stretched-link" href="service-details.html">Account Management</a>
                   </h5>
-                  <p class="mb-0">Hey, have you checked out that new cryptocurrency platform? It's pretty cool and easy
-                    to use!</p>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="col-sm-6 col-lg-4">
-            <div class="service__item service__item--style2" data-aos="fade-up" data-aos-duration="1000">
-              <div class="service__item-inner text-center">
-                <div class="service__item-thumb mb-30">
-                  <img class="dark" src="assets/images/service/5.png" alt="service-icon">
-                </div>
-                <div class="service__item-content">
-                  <h5> <a class="stretched-link" href="service-details.html">HR consulting</a> </h5>
-                  <p class="mb-0">Hey guys, just a quick update on exchange orders. There have been some changes
-                    currency!</p>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="col-sm-6 col-lg-4">
-            <div class="service__item service__item--style2" data-aos="fade-up" data-aos-duration="1200">
-              <div class="service__item-inner text-center">
-                <div class="service__item-thumb mb-30">
-                  <img class="dark" src="assets/images/service/6.png" alt="service-icon">
-                </div>
-                <div class="service__item-content">
-                  <h5> <a class="stretched-link" href="service-details.html">Marketing consulting</a>
-                  </h5>
-                  <p class="mb-0">Hey! Just wanted to let you know that the price notification module processes is now
-                    live!</p>
+                  <p class="mb-0">Let our experts handle your portfolio with account management forex Dubai and personalized strategies for steady growth. Whether you trade Gold, Forex, or Indices, our professionals manage everything for consistent and risk-controlled returns.</p>
                 </div>
               </div>
             </div>
@@ -326,7 +285,9 @@
   <section class="pricing padding-top padding-bottom bg-color-3">
     <div class="section-header section-header--max50">
       <h2 class="mb-10 mt-minus-5">Our <span class="style2">pricing </span>plan</h2>
-      <p>Here's our pricing plan: affordable, straightforward, and no hidden fees. That's it. Let's get started!</p>
+      <p>Smart signals. Sharp entries. Steady returns.
+Your trading partner across India, Dubai & Nepal.
+</p>
     </div>
     <div class="container">
       <div class="pricing__wrapper">
@@ -347,16 +308,16 @@
                     <ul class="pricing__list">
                       <li class="pricing__list-item"><span><img src="assets/images/icon/2.png" alt="check"
                             class="dark"></span>
-                        Weekly online meeting</li>
+                        Up to 3000+ Pips Every Month</li>
                       <li class="pricing__list-item"><span><img src="assets/images/icon/2.png" alt="check"
                             class="dark"></span>
-                        Unlimited learning access</li>
+                        Get 2–8 Curated Trade Signals Daily</li>
                       <li class="pricing__list-item"><span><img src="assets/images/icon/2.png" alt="check"
                             class="dark"></span>
-                        24/7 technical support</li>
+                        Advanced Technical & Market Insights</li>
                       <li class="pricing__list-item"><span><img src="assets/images/icon/2.png" alt="check"
                             class="dark"></span>
-                        Personal training</li>
+                        24/7 Dedicated Trader Assistance</li>
                     </ul>
 
                   </div>
@@ -385,19 +346,16 @@
                     <ul class="pricing__list">
                       <li class="pricing__list-item"><span><img src="assets/images/icon/2.png" alt="check"
                             class="dark"></span>
-                        Weekly online meeting</li>
+                        Up to 3500+ Pips Every Month</li>
                       <li class="pricing__list-item"><span><img src="assets/images/icon/2.png" alt="check"
                             class="dark"></span>
-                        Unlimited learning access</li>
+                        Get 2–4 Curated Trade Signals Daily</li>
                       <li class="pricing__list-item"><span><img src="assets/images/icon/2.png" alt="check"
                             class="dark"></span>
-                        24/7 technical support</li>
+                         Advanced Technical & Market Insights</li>
                       <li class="pricing__list-item"><span><img src="assets/images/icon/2.png" alt="check"
                             class="dark"></span>
-                        Personal training</li>
-                      <li class="pricing__list-item"><span><img src="assets/images/icon/2.png" alt="check"
-                            class="dark"></span>
-                        Business analysis</li>
+                        24/7 Dedicated Trader Assistance</li>
                     </ul>
 
                   </div>
@@ -426,16 +384,16 @@
                     <ul class="pricing__list">
                       <li class="pricing__list-item"><span><img src="assets/images/icon/2.png" alt="check"
                             class="dark"></span>
-                        With all standard features</li>
+                        Up to 4500+ Pips Every Month</li>
                       <li class="pricing__list-item"><span><img src="assets/images/icon/2.png" alt="check"
                             class="dark"></span>
-                        Unlimited learning access</li>
+                        Get 2–8 Curated Trade Signals Daily</li>
                       <li class="pricing__list-item"><span><img src="assets/images/icon/2.png" alt="check"
                             class="dark"></span>
-                        24/7 technical support</li>
+                         Advanced Technical & Market Insight</li>
                       <li class="pricing__list-item"><span><img src="assets/images/icon/2.png" alt="check"
                             class="dark"></span>
-                        Personal training</li>
+                         24/7 Dedicated Trader Assistance</li>
                     </ul>
 
                   </div>
@@ -468,7 +426,7 @@
   <section class="roadmap roadmap--style2 padding-top  padding-bottom bg-color">
     <div class="container">
       <div class="section-header section-header--max50">
-        <h2 class="mb-10 mt-minus-5"> <span class="style2">Roadmap </span> of plarform</h2>
+        <h2 class="mb-10 mt-minus-5"><span class="style2">Roadmap</span> to Profitable Tradings</h2>
         <p>A product roadmap shows the path ahead, helps teams plan, and guides the delivery of the product.</p>
       </div>
       <div class="roadmap__wrapper">
@@ -481,8 +439,8 @@
                     <div class="roadmap__item active">
                       <div class="roadmap__item-inner roadmap__item-inner--vertical-line-bottom">
                         <div class="roadmap__item-content">
-                          <h5>Idea</h5>
-                          <p>Got a crazy idea, hear me out: a pizza vending machine.</p>
+                          <h5>Join Telegram Channel</h5>
+                          <p>Clients join the exclusive Telegram channel to get access to real-time trading signals.</p>
                         </div>
                         <div class="roadmap__item-date">
                           <span>Jan 01, 2024 - Jan 15, 2024</span>
@@ -494,8 +452,8 @@
                     <div class="roadmap__item roadmap__item--reverse">
                       <div class="roadmap__item-inner roadmap__item-inner--vertical-line-top">
                         <div class="roadmap__item-content">
-                          <h5>Framing</h5>
-                          <p>Just hang it up, but make sure it's straight. Done.</p>
+                          <h5>Receive Daily Trading Signals</h5>
+                          <p> Daily buy and sell signals are shared to help clients make informed trading decisions.</p>
                         </div>
                         <div class="roadmap__item-date">
                           <span>Jan 15, 2024 - Jan 30, 2024</span>
@@ -507,8 +465,8 @@
                     <div class="roadmap__item">
                       <div class="roadmap__item-inner roadmap__item-inner--vertical-line-bottom">
                         <div class="roadmap__item-content">
-                          <h5>Design</h5>
-                          <p>Design can make things look good and function better.</p>
+                          <h5>Trade According to Signals</h5>
+                          <p>Clients execute trades on their preferred platform based on the provided signals.</p>
                         </div>
                         <div class="roadmap__item-date">
                           <span>Feb 01, 2024 - Feb 15, 2024</span>
@@ -520,8 +478,8 @@
                     <div class="roadmap__item roadmap__item--reverse">
                       <div class="roadmap__item-inner roadmap__item-inner--vertical-line-top">
                         <div class="roadmap__item-content">
-                          <h5>Development</h5>
-                          <p>Development is an important aspect of life, keep growing!</p>
+                          <h5>Book Profits</h5>
+                          <p>By following accurate signals, clients aim to maximize their trading profits consistently.</p>
                         </div>
                         <div class="roadmap__item-date">
                           <span>Feb 15, 2024 - Feb 28, 2024</span>
@@ -529,7 +487,7 @@
                       </div>
                     </div>
                   </div>
-                  <div class="swiper-slide">
+                  <!-- <div class="swiper-slide">
                     <div class="roadmap__item">
                       <div class="roadmap__item-inner roadmap__item-inner--vertical-line-bottom">
                         <div class="roadmap__item-content">
@@ -554,7 +512,7 @@
                         </div>
                       </div>
                     </div>
-                  </div>
+                  </div> -->
                 </div>
               </div>
             </div>

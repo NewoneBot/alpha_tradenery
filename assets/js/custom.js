@@ -16,33 +16,33 @@ document.addEventListener('DOMContentLoaded', function () {
 // =================== light and dark start ================== //
 
 // Force dark theme on page load
-document.documentElement.setAttribute('data-bs-theme', 'dark');
-localStorage.setItem('theme', 'dark');
+// document.documentElement.setAttribute('data-bs-theme', 'dark');
+// localStorage.setItem('theme', 'dark');
 
-// Optional: update dark images if needed
-changeImage('dark');
+// // Optional: update dark images if needed
+// changeImage('dark');
 
-// Disable the switch button completely (optional)
-const colorSwitcher = document.getElementById('btnSwitch');
-if (colorSwitcher) {
-  colorSwitcher.style.display = 'none'; // hides the toggle
-}
+// // Disable the switch button completely (optional)
+// const colorSwitcher = document.getElementById('btnSwitch');
+// if (colorSwitcher) {
+//   colorSwitcher.style.display = 'none'; // hides the toggle
+// }
 
-// Keep your existing image update function
-function changeImage(themeMode = 'dark') {
-  const icon = document.querySelector('#btnSwitch img');
-  if (icon) icon.src = './assets/images/icon/sun.svg'; // optional, not visible if hidden
+// // Keep your existing image update function
+// function changeImage(themeMode = 'dark') {
+//   const icon = document.querySelector('#btnSwitch img');
+//   if (icon) icon.src = './assets/images/icon/sun.svg'; // optional, not visible if hidden
 
-  var images = document.querySelectorAll('img.dark');
-  for (var i = 0; i < images.length; i++) {
-    var oldSrc = images[i].src;
-    var oldIndex = oldSrc.lastIndexOf(".");
-    var baseName = oldSrc.slice(0, oldIndex);
-    var extension = oldSrc.slice(oldIndex);
-    var newSrc = baseName + "-dark" + extension;
-    images[i].src = newSrc;
-  }
-}
+//   var images = document.querySelectorAll('img.dark');
+//   for (var i = 0; i < images.length; i++) {
+//     var oldSrc = images[i].src;
+//     var oldIndex = oldSrc.lastIndexOf(".");
+//     var baseName = oldSrc.slice(0, oldIndex);
+//     var extension = oldSrc.slice(oldIndex);
+//     var newSrc = baseName + "-dark" + extension;
+//     images[i].src = newSrc;
+//   }
+// }
 
 
 // =================== Change image path end ================== //
