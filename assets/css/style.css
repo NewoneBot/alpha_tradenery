@@ -6850,6 +6850,7 @@ textarea:focus-within {
   -ms-animation: floating 1s cubic-bezier(0.4, -0.35, 0.01, 1.08) infinite alternate;
   -o-animation: floating 1s cubic-bezier(0.4, -0.35, 0.01, 1.08) infinite alternate;
   animation: floating 1s cubic-bezier(0.4, -0.35, 0.01, 1.08) infinite alternate;
+  width: 50%;
 }
 
 .lightdark-switch .switch-btn {

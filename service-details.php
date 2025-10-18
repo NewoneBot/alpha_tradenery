@@ -49,7 +49,7 @@
 
   <!-- ===============>> Preloader start here <<================= -->
   <div class="preloader">
-    <img src="assets/images/logo/preloader.png" alt="preloader icon">
+    <img src="assets/images/logo/APlogo1.png" alt="preloader icon">
   </div>
   <!-- ===============>> Preloader end here <<================= -->
 
