@@ -1,3 +1,29 @@
+<section class="cta cta--style2">
+    <div class="container-fluid">
+      <div class="cta__wrapper">
+        <div class="cta__newsletter justify-content-center">
+          <div class="cta__newsletter-inner" data-aos="fade-up" data-aos-duration="1000">
+            <div class="cta__thumb">
+  <img src="assets/images/cta/scanner.png" alt="cta-thumb" style="width: 180px; height: 180px;">
+</div>
+
+            <div class="cta__subscribe">
+              <h2 class="mb-0"> <span>Subscribe</span> Our Telegram :</h2>
+              <p>(use barcode or number)</p>
+              <form class="cta-form cta-form--style2 form-subscribe" action="#">
+                <div class="cta-form__inner d-sm-flex align-items-center">
+                  <input type="email" class="form-control form-control--style2 mb-3 mb-sm-0"
+                    placeholder="Email Address">
+                  <button class="trk-btn  trk-btn--large trk-btn--secondary2" type="submit">Submit</button>
+                </div>
+              </form>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
 <footer class="footer">
       <div class="container">
         <div class="footer__wrapper">
@@ -64,10 +90,10 @@
                         <a href="about.php">About Us</a>
                       </li>
                       <li class="footer__linklist-item">
-                        <a href="service.php">Services</a>
+                        <a href="gold-vip-signal-india-dubai-nepal-trading.php">Services</a>
                       </li>
                       <li class="footer__linklist-item">
-                        <a href="blog.php">Blogs</a>
+                        <a href="blogs.php">Blogs</a>
                       </li>
                       <li class="footer__linklist-item">
                         <a href="contact.php">Contact Us</a>

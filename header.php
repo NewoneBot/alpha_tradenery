@@ -24,13 +24,16 @@
                     <a href="service-details.php">Services</a>
                     <ul class="submenu">
                       <li>
-                        <a href="service-details.php">Services Details</a>
+                        <a href="gold-vip-signal-india-dubai-nepal-trading.php">Gold VIP Signal</a>
                       </li>
                       <li>
-                        <a href="service-details.php">Services Details</a>
+                        <a href="forex-vip-signal-india-dubai-nepal.php">Forex VIP Signal</a>
                       </li>
                       <li>
-                        <a href="service-details.php">Services Details</a>
+                        <a href="trusted-indices-vip-signal-india-dubai-nepal.php">Indices VIP Signal</a>
+                      </li>
+                      <li>
+                        <a href="account-management-services-india-dubai-nepal.php">Account Management</a>
                       </li>
                     </ul>
                   </li>
@@ -49,7 +52,7 @@
                       href="https://t.me/+5uBPL7kKnyUyODc1"
                       class="trk-btn trk-btn--border trk-btn--primary"
                     >
-                      <span>Join Telegram</span>
+                      <span class="text-white">Join Telegram</span>
                     </a>
                   </div>
 

@@ -116,12 +116,12 @@
               <p class="banner__content-moto"><strong>Alpha Tradenery</strong> – your <strong>trusted trading partner</strong>, offering four premium services: <strong>Gold VIP Signals</strong>, <strong>Forex VIP Signals</strong>, <strong>Account Management</strong>, and <strong>Indices VIP Signals</strong>.
               </p>
               <div class="btn-group">
-                <a href="signin.html" class="trk-btn trk-btn--primary trk-btn--arrowplay">Get Started
+                <a href="signin.html" class="trk-btn trk-btn--primary trk-btn--arrowplay text-white">Get Started
                   <span class="style2">
                     <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">
                       <path
                         d="M9.74165 7.59173C9.81874 7.51447 9.91032 7.45318 10.0111 7.41137C10.1119 7.36955 10.22 7.34802 10.3291 7.34802C10.4383 7.34802 10.5464 7.36955 10.6472 7.41137C10.748 7.45318 10.8396 7.51447 10.9166 7.59173L14.7416 11.4167C14.8189 11.4938 14.8802 11.5854 14.922 11.6862C14.9638 11.787 14.9854 11.8951 14.9854 12.0042C14.9854 12.1134 14.9638 12.2214 14.922 12.3222C14.8802 12.4231 14.8189 12.5146 14.7416 12.5917L10.9166 16.4167C10.8395 16.4939 10.7479 16.5551 10.6471 16.5968C10.5463 16.6386 10.4383 16.6601 10.3291 16.6601C10.22 16.6601 10.112 16.6386 10.0112 16.5968C9.91039 16.5551 9.8188 16.4939 9.74165 16.4167C9.6645 16.3396 9.6033 16.248 9.56154 16.1472C9.51979 16.0464 9.4983 15.9383 9.4983 15.8292C9.4983 15.7201 9.51979 15.6121 9.56154 15.5113C9.6033 15.4105 9.6645 15.3189 9.74165 15.2417L12.975 12.0001L9.74165 8.76673C9.41665 8.44173 9.42498 7.90839 9.74165 7.59173Z"
-                        fill="#0C263A"></path>
+                        fill="#fff"></path>
                       <rect x="-0.75" y="0.75" width="22.5" height="22.5" rx="11.25" transform="matrix(-1 0 0 1 22.5 0)"
                         stroke="black" stroke-opacity="0.16" stroke-width="1.5"></rect>
                     </svg>
@@ -572,31 +572,18 @@ Your trading partner across India, Dubai & Nepal.
             <div class="team__item team__item--shape" data-aos="fade-up" data-aos-duration="800">
               <div class="team__item-inner team__item-inner--shape">
                 <div class="team__item-thumb team__item-thumb--style2">
-                  <img src="assets/images/team/home2/1.png" alt="Team Image" class="dark">
+                  <img src="assets/images/proof/p1.jpeg" alt="Team Image" class="dark">
                 </div>
                 <div class="team__item-content ">
                   <div class="team__item-author team__item-author--style2">
                     <div class="team__item-authorinfo">
-                      <h6 class="mb-0"><a href="team-details.html" class="stretched-link">Shamika Thompson</a> </h6>
+                      <h6 class="mb-0"><a href="https://t.me/+5uBPL7kKnyUyODc1" class="stretched-link">Shamika Thompson</a> </h6>
                       <p class="mb-0">Trade Captain</p>
                     </div>
                     <div class="team__item-authorsocial">
-                      <ul class="social justify-content-center">
-                        <li class="social__item">
-                          <a href="#" class="social__link social__link--style3"><i class="fab fa-facebook-f"></i></a>
-                        </li>
-                        <li class="social__item">
-                          <a href="#" class="social__link social__link--style3 "><i class="fab fa-instagram"></i></a>
-                        </li>
-                        <li class="social__item">
-                          <a href="#" class="social__link social__link--style3"><i
-                              class="fa-brands fa-linkedin-in"></i></a>
-                        </li>
-                        <li class="social__item">
-                          <a href="signin.html" class="social__link social__link--style3"><i
-                              class="fab fa-twitter"></i></a>
-                        </li>
-                      </ul>
+                      <div class="pricing__item-bottom">
+                    <a href="https://t.me/+5uBPL7kKnyUyODc1" class="trk-btn trk-btn--outline4 active">Join Telegram</a>
+                  </div>
                     </div>
                   </div>
                 </div>
@@ -607,31 +594,18 @@ Your trading partner across India, Dubai & Nepal.
             <div class="team__item team__item--shape" data-aos="fade-up" data-aos-duration="900">
               <div class="team__item-inner team__item-inner--shape">
                 <div class="team__item-thumb team__item-thumb--style2">
-                  <img src="assets/images/team/home2/2.png" alt="Team Image" class="dark">
+                  <img src="assets/images/proof/p2.jpeg" alt="Team Image" class="dark">
                 </div>
                 <div class="team__item-content ">
                   <div class="team__item-author team__item-author--style2">
                     <div class="team__item-authorinfo">
-                      <h6 class="mb-0"><a href="team-details.html" class="stretched-link">Mechale smith</a> </h6>
+                      <h6 class="mb-0"><a href="https://t.me/+5uBPL7kKnyUyODc1" class="stretched-link">Mechale smith</a> </h6>
                       <p class="mb-0">Financial Consultant</p>
                     </div>
                     <div class="team__item-authorsocial">
-                      <ul class="social justify-content-center">
-                        <li class="social__item">
-                          <a href="#" class="social__link social__link--style3"><i class="fab fa-facebook-f"></i></a>
-                        </li>
-                        <li class="social__item">
-                          <a href="#" class="social__link social__link--style3 "><i class="fab fa-instagram"></i></a>
-                        </li>
-                        <li class="social__item">
-                          <a href="#" class="social__link social__link--style3"><i
-                              class="fa-brands fa-linkedin-in"></i></a>
-                        </li>
-                        <li class="social__item">
-                          <a href="signin.html" class="social__link social__link--style3"><i
-                              class="fab fa-twitter"></i></a>
-                        </li>
-                      </ul>
+                      <div class="pricing__item-bottom">
+                    <a href="https://t.me/+5uBPL7kKnyUyODc1" class="trk-btn trk-btn--outline4 active">Join Telegram</a>
+                  </div>
                     </div>
                   </div>
                 </div>
@@ -643,31 +617,18 @@ Your trading partner across India, Dubai & Nepal.
             <div class="team__item team__item--shape" data-aos="fade-up" data-aos-duration="1000">
               <div class="team__item-inner team__item-inner--shape">
                 <div class="team__item-thumb team__item-thumb--style2">
-                  <img src="assets/images/team/home2/3.png" alt="Team Image" class="dark">
+                  <img src="assets/images/proof/p3.jpeg" alt="Team Image" class="dark">
                 </div>
                 <div class="team__item-content ">
                   <div class="team__item-author team__item-author--style2">
                     <div class="team__item-authorinfo">
-                      <h6 class="mb-0"><a href="team-details.html" class="stretched-link">Youn Choe</a> </h6>
+                      <h6 class="mb-0"><a href="https://t.me/+5uBPL7kKnyUyODc1" class="stretched-link">Youn Choe</a> </h6>
                       <p class="mb-0">Operation Consultant</p>
                     </div>
                     <div class="team__item-authorsocial">
-                      <ul class="social justify-content-center">
-                        <li class="social__item">
-                          <a href="#" class="social__link social__link--style3"><i class="fab fa-facebook-f"></i></a>
-                        </li>
-                        <li class="social__item">
-                          <a href="#" class="social__link social__link--style3 "><i class="fab fa-instagram"></i></a>
-                        </li>
-                        <li class="social__item">
-                          <a href="#" class="social__link social__link--style3"><i
-                              class="fa-brands fa-linkedin-in"></i></a>
-                        </li>
-                        <li class="social__item">
-                          <a href="signin.html" class="social__link social__link--style3"><i
-                              class="fab fa-twitter"></i></a>
-                        </li>
-                      </ul>
+                      <div class="pricing__item-bottom">
+                    <a href="https://t.me/+5uBPL7kKnyUyODc1" class="trk-btn trk-btn--outline4 active">Join Telegram</a>
+                  </div>
                     </div>
                   </div>
                 </div>
@@ -678,31 +639,18 @@ Your trading partner across India, Dubai & Nepal.
             <div class="team__item team__item--shape" data-aos="fade-up" data-aos-duration="1100">
               <div class="team__item-inner team__item-inner--shape">
                 <div class="team__item-thumb team__item-thumb--style2">
-                  <img src="assets/images/team/home2/4.png" alt="Team Image" class="dark">
+                  <img src="assets/images/proof/p4.jpeg" alt="Team Image" class="dark">
                 </div>
                 <div class="team__item-content ">
                   <div class="team__item-author team__item-author--style2">
                     <div class="team__item-authorinfo">
-                      <h6 class="mb-0"><a href="team-details.html" class="stretched-link">Dang Xuan</a> </h6>
+                      <h6 class="mb-0"><a href="https://t.me/+5uBPL7kKnyUyODc1" class="stretched-link">Dang Xuan</a> </h6>
                       <p class="mb-0">Trade Consultant</p>
                     </div>
                     <div class="team__item-authorsocial">
-                      <ul class="social justify-content-center">
-                        <li class="social__item">
-                          <a href="#" class="social__link social__link--style3"><i class="fab fa-facebook-f"></i></a>
-                        </li>
-                        <li class="social__item">
-                          <a href="#" class="social__link social__link--style3 "><i class="fab fa-instagram"></i></a>
-                        </li>
-                        <li class="social__item">
-                          <a href="#" class="social__link social__link--style3"><i
-                              class="fa-brands fa-linkedin-in"></i></a>
-                        </li>
-                        <li class="social__item">
-                          <a href="signin.html" class="social__link social__link--style3 "><i
-                              class="fab fa-twitter"></i></a>
-                        </li>
-                      </ul>
+                      <div class="pricing__item-bottom">
+                    <a href="https://t.me/+5uBPL7kKnyUyODc1" class="trk-btn trk-btn--outline4 active">Join Telegram</a>
+                  </div>
                     </div>
                   </div>
                 </div>
@@ -713,31 +661,18 @@ Your trading partner across India, Dubai & Nepal.
             <div class="team__item team__item--shape" data-aos="fade-up" data-aos-duration="800">
               <div class="team__item-inner team__item-inner--shape">
                 <div class="team__item-thumb team__item-thumb--style2">
-                  <img src="assets/images/team/home2/5.png" alt="Team Image" class="dark">
+                  <img src="assets/images/proof/p5.jpeg" alt="Team Image" class="dark">
                 </div>
                 <div class="team__item-content ">
                   <div class="team__item-author team__item-author--style2">
                     <div class="team__item-authorinfo">
-                      <h6 class="mb-0"><a href="team-details.html" class="stretched-link">Kimberly Jones</a> </h6>
+                      <h6 class="mb-0"><a href="https://t.me/+5uBPL7kKnyUyODc1" class="stretched-link">Kimberly Jones</a> </h6>
                       <p class="mb-0">HR Consultant</p>
                     </div>
                     <div class="team__item-authorsocial">
-                      <ul class="social justify-content-center">
-                        <li class="social__item">
-                          <a href="#" class="social__link social__link--style3"><i class="fab fa-facebook-f"></i></a>
-                        </li>
-                        <li class="social__item">
-                          <a href="#" class="social__link social__link--style3 "><i class="fab fa-instagram"></i></a>
-                        </li>
-                        <li class="social__item">
-                          <a href="#" class="social__link social__link--style3"><i
-                              class="fa-brands fa-linkedin-in"></i></a>
-                        </li>
-                        <li class="social__item">
-                          <a href="signin.html" class="social__link social__link--style3 "><i
-                              class="fab fa-twitter"></i></a>
-                        </li>
-                      </ul>
+                      <div class="pricing__item-bottom">
+                    <a href="https://t.me/+5uBPL7kKnyUyODc1" class="trk-btn trk-btn--outline4 active">Join Telegram</a>
+                  </div>
                     </div>
                   </div>
                 </div>
@@ -748,31 +683,18 @@ Your trading partner across India, Dubai & Nepal.
             <div class="team__item team__item--shape" data-aos="fade-up" data-aos-duration="900">
               <div class="team__item-inner team__item-inner--shape">
                 <div class="team__item-thumb team__item-thumb--style2">
-                  <img src="assets/images/team/home2/6.png" alt="Team Image" class="dark">
+                  <img src="assets/images/proof/p6.jpeg" alt="Team Image" class="dark">
                 </div>
                 <div class="team__item-content ">
                   <div class="team__item-author team__item-author--style2">
                     <div class="team__item-authorinfo">
-                      <h6 class="mb-0"><a href="team-details.html" class="stretched-link">Rim Kyung</a> </h6>
+                      <h6 class="mb-0"><a href="https://t.me/+5uBPL7kKnyUyODc1" class="stretched-link">Rim Kyung</a> </h6>
                       <p class="mb-0">Technology Consultant</p>
                     </div>
                     <div class="team__item-authorsocial">
-                      <ul class="social justify-content-center">
-                        <li class="social__item">
-                          <a href="#" class="social__link social__link--style3"><i class="fab fa-facebook-f"></i></a>
-                        </li>
-                        <li class="social__item">
-                          <a href="#" class="social__link social__link--style3 "><i class="fab fa-instagram"></i></a>
-                        </li>
-                        <li class="social__item">
-                          <a href="#" class="social__link social__link--style3"><i
-                              class="fa-brands fa-linkedin-in"></i></a>
-                        </li>
-                        <li class="social__item">
-                          <a href="signin.html" class="social__link social__link--style3 "><i
-                              class="fab fa-twitter"></i></a>
-                        </li>
-                      </ul>
+                      <div class="pricing__item-bottom">
+                    <a href="https://t.me/+5uBPL7kKnyUyODc1" class="trk-btn trk-btn--outline4 active">Join Telegram</a>
+                  </div>
                     </div>
                   </div>
                 </div>
@@ -783,31 +705,18 @@ Your trading partner across India, Dubai & Nepal.
             <div class="team__item team__item--shape" data-aos="fade-up" data-aos-duration="1000">
               <div class="team__item-inner team__item-inner--shape">
                 <div class="team__item-thumb team__item-thumb--style2">
-                  <img src="assets/images/team/home2/7.png" alt="Team Image" class="dark">
+                  <img src="assets/images/proof/p7.jpeg" alt="Team Image" class="dark">
                 </div>
                 <div class="team__item-content ">
                   <div class="team__item-author team__item-author--style2">
                     <div class="team__item-authorinfo">
-                      <h6 class="mb-0"><a href="team-details.html" class="stretched-link">Mary David</a> </h6>
+                      <h6 class="mb-0"><a href="https://t.me/+5uBPL7kKnyUyODc1" class="stretched-link">Mary David</a> </h6>
                       <p class="mb-0">Customer Consultant</p>
                     </div>
                     <div class="team__item-authorsocial">
-                      <ul class="social justify-content-center">
-                        <li class="social__item">
-                          <a href="#" class="social__link social__link--style3"><i class="fab fa-facebook-f"></i></a>
-                        </li>
-                        <li class="social__item">
-                          <a href="#" class="social__link social__link--style3 "><i class="fab fa-instagram"></i></a>
-                        </li>
-                        <li class="social__item">
-                          <a href="#" class="social__link social__link--style3"><i
-                              class="fa-brands fa-linkedin-in"></i></a>
-                        </li>
-                        <li class="social__item">
-                          <a href="signin.html" class="social__link social__link--style3"><i
-                              class="fab fa-twitter"></i></a>
-                        </li>
-                      </ul>
+                     <div class="pricing__item-bottom">
+                    <a href="https://t.me/+5uBPL7kKnyUyODc1" class="trk-btn trk-btn--outline4 active">Join Telegram</a>
+                  </div>
                     </div>
                   </div>
                 </div>
@@ -818,31 +727,18 @@ Your trading partner across India, Dubai & Nepal.
             <div class="team__item team__item--shape" data-aos="fade-up" data-aos-duration="1100">
               <div class="team__item-inner team__item-inner--shape">
                 <div class="team__item-thumb team__item-thumb--style2">
-                  <img src="assets/images/team/home2/8.png" alt="Team Image" class="dark">
+                  <img src="assets/images/proof/p8.jpeg" alt="Team Image" class="dark">
                 </div>
                 <div class="team__item-content ">
                   <div class="team__item-author team__item-author--style2">
                     <div class="team__item-authorinfo">
-                      <h6 class="mb-0"><a href="team-details.html" class="stretched-link">Anna Morozov</a> </h6>
+                      <h6 class="mb-0"><a href="https://t.me/+5uBPL7kKnyUyODc1" class="stretched-link">Anna Morozov</a> </h6>
                       <p class="mb-0">Project Manager</p>
                     </div>
                     <div class="team__item-authorsocial">
-                      <ul class="social justify-content-center">
-                        <li class="social__item">
-                          <a href="#" class="social__link social__link--style3"><i class="fab fa-facebook-f"></i></a>
-                        </li>
-                        <li class="social__item">
-                          <a href="#" class="social__link social__link--style3 "><i class="fab fa-instagram"></i></a>
-                        </li>
-                        <li class="social__item">
-                          <a href="#" class="social__link social__link--style3"><i
-                              class="fa-brands fa-linkedin-in"></i></a>
-                        </li>
-                        <li class="social__item">
-                          <a href="signin.html" class="social__link social__link--style3 "><i
-                              class="fab fa-twitter"></i></a>
-                        </li>
-                      </ul>
+                     <div class="pricing__item-bottom">
+                    <a href="https://t.me/+5uBPL7kKnyUyODc1" class="trk-btn trk-btn--outline4 active">Join Telegram</a>
+                  </div>
                     </div>
                   </div>
                 </div>
@@ -885,10 +781,10 @@ Your trading partner across India, Dubai & Nepal.
                     <div class="testimonial__footer">
                       <div class="testimonial__author">
                         <div class="testimonial__author-thumb">
-                          <img src="assets/images/testimonial/3.png" alt="author" class="dark">
+                          <img src="assets/images/testimonial/client1.jpg" alt="author" class="dark">
                         </div>
                         <div class="testimonial__author-designation">
-                          <h6>Sara D., Dubai</h6>
+                          <h6>Salman D., Dubai</h6>
                           <span>UAE</span>
                         </div>
                       </div>
@@ -911,10 +807,10 @@ Your trading partner across India, Dubai & Nepal.
                     <div class="testimonial__footer">
                       <div class="testimonial__author">
                         <div class="testimonial__author-thumb">
-                          <img src="assets/images/testimonial/4.png" alt="author" class="dark">
+                          <img src="assets/images/testimonial/client2.jpg" alt="author" class="dark">
                         </div>
                         <div class="testimonial__author-designation">
-                          <h6>Sonal A., Mumbai</h6>
+                          <h6>Sonu A., Mumbai</h6>
                           <span>India</span>
                         </div>
                       </div>
@@ -937,7 +833,7 @@ Your trading partner across India, Dubai & Nepal.
                     <div class="testimonial__footer">
                       <div class="testimonial__author">
                         <div class="testimonial__author-thumb">
-                          <img src="assets/images/testimonial/5.png" alt="author" class="dark">
+                          <img src="assets/images/testimonial/client3.jpg" alt="author" class="dark">
                         </div>
                         <div class="testimonial__author-designation">
                           <h6>Manish K., Kathmandu</h6>
@@ -1175,30 +1071,7 @@ Your trading partner across India, Dubai & Nepal.
 
 
   <!-- ===============>> cta section start here <<================= -->
-  <section class="cta cta--style2">
-    <div class="container-fluid">
-      <div class="cta__wrapper">
-        <div class="cta__newsletter justify-content-center">
-          <div class="cta__newsletter-inner" data-aos="fade-up" data-aos-duration="1000">
-            <div class="cta__thumb">
-              <img src="assets/images/cta/3.png" alt="cta-thumb">
-            </div>
-            <div class="cta__subscribe">
-              <h2 class="mb-0"> <span>Subscribe</span> our news</h2>
-              <p>Hey! Are you tired of missing out on our updates? Subscribe to our news now and stay in the loop!</p>
-              <form class="cta-form cta-form--style2 form-subscribe" action="#">
-                <div class="cta-form__inner d-sm-flex align-items-center">
-                  <input type="email" class="form-control form-control--style2 mb-3 mb-sm-0"
-                    placeholder="Email Address">
-                  <button class="trk-btn  trk-btn--large trk-btn--secondary2" type="submit">Submit</button>
-                </div>
-              </form>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
+  
   <!-- ===============>> cta section start here <<================= -->
 
 

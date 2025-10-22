@@ -125,31 +125,6 @@
 
 
 
-  <!-- ===============>> Story section start here <<================= -->
-  <div class="story padding-top bg-color-3">
-    <div class="container">
-      <div class="story__wrapper">
-        <div class="story__thumb">
-          <div class="story__thumb-inner" data-aos="fade-up" data-aos-duration="800">
-            <img src="assets/images/about/4.png" alt="story-image">
-            <div class="story__thumb-playbtn">
-              <a href="https://www.youtube.com/watch?v=uJSgaPIvgKk&amp;ab_channel=FreeTemplates" data-fslightbox><i
-                  class="fa-solid fa-circle-play"></i></a>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-    <div class="story__shape">
-      <span class="story__shape-item story__shape-item--1"><span></span> </span>
-    </div>
-  </div>
-  <!-- ===============>> Story section end here <<================= -->
-
-
-
-
-
   <!-- ===============>> About section start here <<================= -->
   <section class="about about--style1 ">
     <div class="container">
@@ -184,11 +159,18 @@
               <div class="about__content-inner">
                 <h2>Meet <span>our company</span></h2>
 
-                <p class="mb-0"><strong>Alpha Tradenery</strong> is the <strong>No.1 best trading services provider in India, Dubai, and Nepal</strong>,
-                   delivering <strong>professional forex trading signals</strong> with proven accuracy. We specialize in <strong>live daily forex 
-                   signals</strong>, <strong>VIP forex signals</strong>, and <strong>gold signals</strong>, helping traders succeed in fast-moving markets. From
-                    <strong>account management for forex in Dubai</strong> to <strong>Indices market signals and UAE Forex insights</strong>, we’ve got 
-                    every trader covered. Join our Telegram today and level up your trading game!</p>
+                <p class="mb-0">Founded in <strong>2016, Alpha Tradenery</strong> has established itself as one of the 
+                  <strong>No.1 Best Trading Services in India</strong>, <strong>Dubai & Nepal</strong>. We specialize in <strong>live forex signals</strong>, <strong>VIP
+                   forex signals</strong>, <strong>gold forex signal groups</strong>, <strong>indices signals</strong>, and <strong>account management services</strong>
+                   designed to help traders achieve consistent success.</p><br/>
+                   <p class="mb-0">Since 2016, our mission has been to empower traders through <strong>accurate
+                    analysis</strong>, <strong>real-time updates</strong>, and <strong>transparent trading support</strong>. With expert guidance and advanced
+                     strategies, we help clients make confident and profitable trading decisions.</p><br/>
+                   <p class="mb-0">Today, <strong>Alpha Tradenery</strong> proudly serves a growing network of traders 
+                    across <strong>India</strong>, <strong>Dubai, and Nepal</strong>, delivering <strong>professional forex trading signals</strong> and <strong>premium 
+                    account management</strong> trusted by thousands worldwide.</p><br/>
+
+                    
                 <a href="about.html" class="trk-btn trk-btn--border trk-btn--primary">Explore More </a>
               </div>
             </div>
@@ -207,7 +189,7 @@
   <section class="roadmap roadmap--style1 padding-top  padding-bottom bg-color" id="roadmap">
     <div class="container">
       <div class="section-header section-header--max50">
-        <h2 class="mb-10 mt-minus-5">Product <span> roadmap</span></h2>
+        <h2 class="mb-10 mt-minus-5">Our Top <span> Services</span></h2>
         <p>A product roadmap shows the path ahead, helps teams plan, and guides the delivery of the product.</p>
       </div>
       <div class="roadmap__wrapper">
@@ -288,209 +270,105 @@
   </section>
   <!-- ========== Roadmap Section Ends Here========== -->
 
-
-
-
-
-
-  <!-- ===============>> Team section start here <<================= -->
-  <section class="team padding-top padding-bottom bg-color">
-    <div class="section-header section-header--max50">
-      <h2 class="mb-10 mt-minus-5">Meet our <span>advisers</span></h2>
-      <p>Hey everyone, meet our amazing advisers! They're here to help and guide us through anything.</p>
-    </div>
+        <!-- ===============>> About section start here <<================= -->
+  <section class="about padding-top--style2 padding-bottom bg-color-3">
     <div class="container">
-      <div class="team__wrapper">
-        <div class="row g-4 align-items-center">
-          <div class="col-sm-6 col-lg-3">
-            <div class="team__item team__item--shape" data-aos="fade-up" data-aos-duration="800">
-              <div class="team__item-inner team__item-inner--shape">
-                <div class="team__item-thumb team__item-thumb--style1">
-                  <img src="assets/images/team/1.png" alt="Team Image" class="dark">
+      <div class="about__wrapper">
+        <div class="row g-5 align-items-center">
+          <div class="col-lg-6">
+            <div class="about__thumb about__thumb--style2" data-aos="fade-left" data-aos-duration="800">
+              <div class="about__thumb-inner mt-30 mt-lg-0">
+                <div class="about__thumb-image  text-center">
+                  <img src="assets/images/banner/home2/1.png" alt="about-image" class="dark">
                 </div>
-                <div class="team__item-content team__item-content--style1">
-                  <div class="team__item-author team__item-author--style1">
-                    <div class="team__item-authorinfo">
-                      <h6 class="mb-1"><a href="team-details.html" class="stretched-link">Dianne Russell</a> </h6>
-                      <p class="mb-0">Trade Captain</p>
-                    </div>
-                  </div>
-                </div>
-
               </div>
             </div>
           </div>
-          <div class="col-sm-6 col-lg-3">
-            <div class="team__item team__item--shape" data-aos="fade-up" data-aos-duration="900">
-              <div class="team__item-inner team__item-inner--shape">
-                <div class="team__item-thumb team__item-thumb--style1">
-                  <img src="assets/images/team/2.png" alt="Team Image" class="dark">
+          <div class="col-lg-6">
+            <div class="section-header mb-50">
+              <h2>
+                Our <span class="style2">Mission</span>
+              </h2>
+            </div>
+            <div class="about__content about__content--style2" data-aos="fade-right" data-aos-duration="800">
+              <div class="about__content-inner">
+                <div class="about__content-details">
+                  <p class="mb-0">At <strong>Alpha Tradenery</strong>, our mission is to empower traders across <strong>India, Dubai, and Nepal</strong> with <strong>accurate</strong>, <strong>reliable</strong>, and <strong>real-time forex signals</strong> that help them make confident and profitable trading decisions.</p>
                 </div>
-                <div class="team__item-content team__item-content--style1">
-                  <div class="team__item-author team__item-author--style1">
-                    <div class="team__item-authorinfo">
-                      <h6 class="mb-1"><a href="team-details.html" class="stretched-link">Theresa Webb</a> </h6>
-                      <p class="mb-0">Strategic Advisor</p>
-                    </div>
-                  </div>
-                </div>
-
               </div>
             </div>
-          </div>
-          <div class="col-sm-6 col-lg-3">
-            <div class="team__item team__item--shape" data-aos="fade-up" data-aos-duration="1000">
-              <div class="team__item-inner team__item-inner--shape">
-                <div class="team__item-thumb team__item-thumb--style1">
-                  <img src="assets/images/team/3.png" alt="Team Image" class="dark">
+            <div class="about__content about__content--style2" data-aos="fade-right" data-aos-duration="900">
+              <div class="about__content-inner">
+                <div class="about__content-details">
+                  <p class="mb-0"> We are dedicated to creating a transparent trading environment through <strong>expert analysis</strong>, <strong>advanced strategies</strong>, and <strong>trusted account management services</strong>—helping our clients achieve consistent growth and long-term financial success.</p>
                 </div>
-                <div class="team__item-content team__item-content--style1">
-                  <div class="team__item-author team__item-author--style1">
-                    <div class="team__item-authorinfo">
-                      <h6 class="mb-1"><a href="team-details.html" class="stretched-link">Courtney Henry</a> </h6>
-                      <p class="mb-0">Management Consultant</p>
-                    </div>
-                  </div>
-                </div>
-
               </div>
             </div>
-          </div>
-          <div class="col-sm-6 col-lg-3">
-            <div class="team__item team__item--shape" data-aos="fade-up" data-aos-duration="1100">
-              <div class="team__item-inner team__item-inner--shape">
-                <div class="team__item-thumb team__item-thumb--style1">
-                  <img src="assets/images/team/4.png" alt="Team Image" class="dark">
-                </div>
-                <div class="team__item-content team__item-content--style1">
-                  <div class="team__item-author team__item-author--style1">
-                    <div class="team__item-authorinfo">
-                      <h6 class="mb-1"><a href="team-details.html" class="stretched-link">Albert Flores</a> </h6>
-                      <p class="mb-0">Development Specialist</p>
-                    </div>
-                  </div>
-                </div>
-
-              </div>
-            </div>
-          </div>
-          <div class="col-sm-6 col-lg-3">
-            <div class="team__item team__item--shape" data-aos="fade-up" data-aos-duration="800">
-              <div class="team__item-inner team__item-inner--shape">
-                <div class="team__item-thumb team__item-thumb--style1">
-                  <img src="assets/images/team/5.png" alt="Team Image" class="dark">
-                </div>
-                <div class="team__item-content team__item-content--style1">
-                  <div class="team__item-author team__item-author--style1">
-                    <div class="team__item-authorinfo">
-                      <h6 class="mb-1"><a href="team-details.html" class="stretched-link">Darrell Steward</a> </h6>
-                      <p class="mb-0">Growth Strategist</p>
-                    </div>
-                  </div>
-                </div>
-
-              </div>
-            </div>
-          </div>
-          <div class="col-sm-6 col-lg-3">
-            <div class="team__item team__item--shape" data-aos="fade-up" data-aos-duration="900">
-              <div class="team__item-inner team__item-inner--shape">
-                <div class="team__item-thumb team__item-thumb--style1">
-                  <img src="assets/images/team/6.png" alt="Team Image" class="dark">
-                </div>
-                <div class="team__item-content team__item-content--style1">
-                  <div class="team__item-author team__item-author--style1">
-                    <div class="team__item-authorinfo">
-                      <h6 class="mb-1"><a href="team-details.html" class="stretched-link">Wade Warren</a> </h6>
-                      <p class="mb-0">Trade Consultant</p>
-                    </div>
-                  </div>
-                </div>
-
-              </div>
-            </div>
-          </div>
-          <div class="col-sm-6 col-lg-3">
-            <div class="team__item team__item--shape" data-aos="fade-up" data-aos-duration="1000">
-              <div class="team__item-inner team__item-inner--shape">
-                <div class="team__item-thumb team__item-thumb--style1">
-                  <img src="assets/images/team/7.png" alt="Team Image" class="dark">
-                </div>
-                <div class="team__item-content team__item-content--style1">
-                  <div class="team__item-author team__item-author--style1">
-                    <div class="team__item-authorinfo">
-                      <h6 class="mb-1"><a href="team-details.html" class="stretched-link">Cody Fisher</a> </h6>
-                      <p class="mb-0">HR Consultant</p>
-                    </div>
-                  </div>
-                </div>
-
-              </div>
-            </div>
-          </div>
-          <div class="col-sm-6 col-lg-3">
-            <div class="team__item team__item--shape" data-aos="fade-up" data-aos-duration="1100">
-              <div class="team__item-inner team__item-inner--shape">
-                <div class="team__item-thumb team__item-thumb--style1">
-                  <img src="assets/images/team/8.png" alt="Team Image" class="dark">
-                </div>
-                <div class="team__item-content team__item-content--style1">
-                  <div class="team__item-author team__item-author--style1">
-                    <div class="team__item-authorinfo">
-                      <h6 class="mb-1"><a href="team-details.html" class="stretched-link">Bessie Cooper</a> </h6>
-                      <p class="mb-0">Financial Advisor</p>
-                    </div>
-                  </div>
-                </div>
-
-              </div>
-            </div>
-          </div>
-          <div class="text-center">
-            <a href="team.html" class="trk-btn trk-btn--border trk-btn--primary mt-25">View more </a>
           </div>
         </div>
       </div>
     </div>
+    <div class="about__shape about__shape--style2">
+      <span class="about__shape-item about__shape-item--1"><img src="assets/images/others/2.png"
+          alt="shape-icon"></span>
+    </div>
   </section>
-  <!-- ===============>> Team section start here <<================= -->
+  <!-- ===============>> About section start here <<================= -->
 
-
-
-
-
-
-  <!-- ===============>> cta section start here <<================= -->
-  <section class="cta padding-top padding-bottom  bg-color">
-    <div class="container-fluid">
-      <div class="cta__wrapper">
-        <div class="cta__newsletter justify-content-center">
-          <div class="cta__newsletter-inner" data-aos="fade-up" data-aos-duration="1000">
-            <div class="cta__thumb">
-              <img src="assets/images/cta/3.png" alt="cta-thumb">
+    <!-- ===============>> About section start here <<================= -->
+  <section class="about padding-top--style2 padding-bottom bg-color-3">
+    <div class="container">
+      <div class="about__wrapper">
+        <div class="row g-5 align-items-center">
+          <div class="col-lg-6">
+            <div class="section-header mb-50">
+              <h2>
+                Our <span class="style2">Values</span>
+              </h2>
             </div>
-            <div class="cta__subscribe">
-              <h2> <span>Subscribe</span> our news</h2>
-              <p>Hey! Are you tired of missing out on our updates? Subscribe to our news now and stay in the loop!</p>
-              <form class="cta-form cta-form--style2 form-subscribe" action="#">
-                <div class="cta-form__inner d-sm-flex align-items-center">
-                  <input type="email" class="form-control form-control--style2 mb-3 mb-sm-0"
-                    placeholder="Email Address">
-                  <button class="trk-btn  trk-btn--large trk-btn--secondary2" type="submit">Submit</button>
+            <div class="about__content about__content--style2" data-aos="fade-right" data-aos-duration="800">
+              <div class="about__content-inner">
+                <div class="about__content-details">
+                  <p class="mb-0">At <strong>Alpha Tradenery</strong>, we believe in trust, transparency, and excellence. We deliver <strong>No.1 Best Trading Services in India, Dubai & Nepal</strong> through <strong>accurate forex signals</strong>, <strong>gold and indices signals</strong>, and account management services you can rely on.</p>
                 </div>
-              </form>
+              </div>
+            </div>
+            <div class="about__content about__content--style2" data-aos="fade-right" data-aos-duration="900">
+              <div class="about__content-inner">
+                <div class="about__content-details">
+                  <p class="mb-0">Our values are built on <strong>honesty</strong>, <strong>consistency</strong>, and <strong>client success</strong>. We ensure <strong>live daily forex signals</strong>, <strong>VIP forex signals</strong>, and <strong>professional trading strategies</strong> that empower traders to grow.</p>
+                </div>
+              </div>
+            </div>
+            <div class="about__content about__content--style2" data-aos="fade-right" data-aos-duration="1000">
+              <div class="about__content-inner">
+                <div class="about__content-details">
+                  <p class="mb-0">With a focus on <strong>quality, innovation, and global support</strong>, we help our clients achieve financial freedom through the most <strong>reliable forex signals</strong> and <strong>premium account management</strong> across India, Dubai, and Nepal.
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-6">
+            <div class="about__thumb about__thumb--style2" data-aos="fade-left" data-aos-duration="800">
+              <div class="about__thumb-inner mt-30 mt-lg-0">
+                <div class="about__thumb-image  text-center">
+                  <img src="assets/images/about/3.png" alt="about-image" class="dark">
+                </div>
+              </div>
             </div>
           </div>
         </div>
-        <div class="cta__shape">
-          <span class="cta__shape-item cta__shape-item--1"><img src="assets/images/cta/2.png" alt="shape icon"></span>
-          <span class="cta__shape-item cta__shape-item--2"><img src="assets/images/cta/4.png" alt="shape icon"></span>
-          <span class="cta__shape-item cta__shape-item--3"><img src="assets/images/cta/5.png" alt="shape icon"></span>
-        </div>
       </div>
     </div>
+    <div class="about__shape about__shape--style2">
+      <span class="about__shape-item about__shape-item--1"><img src="assets/images/others/2.png"
+          alt="shape-icon"></span>
+    </div>
   </section>
-  <!-- ===============>> cta section start here <<================= -->
+  <!-- ===============>> About section start here <<================= -->
+
+
 
 
 

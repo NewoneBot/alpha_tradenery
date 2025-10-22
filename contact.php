@@ -121,10 +121,7 @@
                     </div>
                     <div class="contact__item-content">
                       <p>
-                        0917749254
-                      </p>
-                      <p>
-                        0983888611
+                        8974200664
                       </p>
                     </div>
                   </div>
@@ -136,10 +133,6 @@
                     </div>
                     <div class="contact__item-content">
                       <p>
-                        Bitrader@gmail.com
-                      </p>
-                      <p>
-                        hello@gmail.com
                       </p>
                     </div>
                   </div>
@@ -151,10 +144,6 @@
                     </div>
                     <div class="contact__item-content">
                       <p>
-                        88 Sheridan Street
-                      </p>
-                      <p>
-                        534 Victoria Trail
                       </p>
                     </div>
                   </div>
