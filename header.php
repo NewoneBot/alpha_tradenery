@@ -18,10 +18,10 @@
                     <a href="index.php">Home </a>
                   </li>
                    <li>
-                    <a href="About.php">About</a>
+                    <a href="about.php">About</a>
                   </li>
                   <li>
-                    <a href="service-details.php">Services</a>
+                    <a href="gold-vip-signal-india-dubai-nepal-trading.php">Services</a>
                     <ul class="submenu">
                       <li>
                         <a href="gold-vip-signal-india-dubai-nepal-trading.php">Gold VIP Signal</a>
