@@ -21,7 +21,7 @@
                     <a href="about.php">About</a>
                   </li>
                   <li>
-                    <a href="gold-vip-signal-india-dubai-nepal-trading.php">Services</a>
+                    <a href="#">Services</a>
                     <ul class="submenu">
                       <li>
                         <a href="gold-vip-signal-india-dubai-nepal-trading.php">Gold VIP Signal</a>
