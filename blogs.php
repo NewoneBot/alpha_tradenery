@@ -31,8 +31,14 @@
 
 
 
-  <link rel="shortcut icon" href="assets/images/logo/APfavicon.png" type="image/x-icon">
-
+<!-- Favicons -->
+<link rel="icon" href="assets/images/logo/APfavicon.ico" type="image/png">
+<link rel="icon" href="assets/images/logo/favicon-16x16.png" sizes="16x16" type="image/png">
+<link rel="icon" href="assets/images/logo/favicon-32x32.png" sizes="32x32" type="image/png">
+<link rel="icon" href="assets/images/logo/android-chrome-192x192.png" sizes="192x192" type="image/png">
+<link rel="icon" href="assets/images/logo/APlogo1.png" sizes="512x512" type="image/png">
+<link rel="apple-touch-icon" href="assets/images/logo/apple-touch-icon.png" sizes="180x180">
+<link rel="manifest" href="assets/images/logo/site.webmanifest">
   <link rel="stylesheet" href="assets/css/bootstrap.min.css">
   <link rel="stylesheet" href="assets/css/aos.css">
   <link rel="stylesheet" href="assets/css/all.min.css">

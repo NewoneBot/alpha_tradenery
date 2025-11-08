@@ -56,7 +56,7 @@
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="No.1 Best Trading Services in India, Dubai & Nepal">
   <meta name="twitter:description" content="Looking for the No.1 Best Trading Services in India, Dubai & Nepal? Get the most reliable and professional forex trading signals designed for consistent profits. Trusted VIP and Gold forex signal providers in Dubai.">
-  <meta name="twitter:image" content="https://freelancesociety.in/images/web-design-development-banner.jpg">
+  <meta name="twitter:image" content="assets/images/web-design-development-banner.jpg">
 
   <!-- Robots for Crawlers -->
   <meta name="googlebot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
@@ -70,9 +70,14 @@
   <meta name="google-site-verification" content="replace-this-with-your-google-verification-code">
   <meta name="yandex-verification" content="replace-this-with-your-yandex-verification-code">
 
-  <!-- Favicons -->
-  <link rel="shortcut icon" href="assets/images/logo/APfavicon.png" type="image/x-icon">
-  <link rel="manifest" href="https://alphatradenery.in/image/logo/site.webmanifest">
+<!-- Favicons -->
+<link rel="icon" href="assets/images/logo/APfavicon.ico" type="image/png">
+<link rel="icon" href="assets/images/logo/favicon-16x16.png" sizes="16x16" type="image/png">
+<link rel="icon" href="assets/images/logo/favicon-32x32.png" sizes="32x32" type="image/png">
+<link rel="icon" href="assets/images/logo/android-chrome-192x192.png" sizes="192x192" type="image/png">
+<link rel="icon" href="assets/images/logo/APlogo1.png" sizes="512x512" type="image/png">
+<link rel="apple-touch-icon" href="assets/images/logo/apple-touch-icon.png" sizes="180x180">
+<link rel="manifest" href="assets/images/logo/site.webmanifest">
 
   <!-- Stylesheets -->
   <link rel="stylesheet" href="assets/css/bootstrap.min.css">
@@ -137,16 +142,16 @@
                   <img class="dark" src="assets/images/about/1.png" alt="about-image">
                   <div class="floating-content__top-left" data-aos="fade-right" data-aos-duration="1000">
                     <div class="floating-content__item">
-                      <h3> <span class="purecounter" data-purecounter-start="0" data-purecounter-end="10">30</span>
+                      <h4> <span class="purecounter" data-purecounter-start="0" data-purecounter-end="10">30</span>
                         Years
-                      </h3>
+                      </h4>
                       <p>Consulting Experience</p>
                     </div>
                   </div>
                   <div class="floating-content__bottom-right" data-aos="fade-right" data-aos-duration="1000">
                     <div class="floating-content__item">
-                      <h3> <span class="purecounter" data-purecounter-start="0" data-purecounter-end="25">25K</span>K+
-                      </h3>
+                      <h5> <span class="purecounter" data-purecounter-start="0" data-purecounter-end="25">25K</span>K+
+                      </h5>
                       <p>Satisfied Customers</p>
                     </div>
                   </div>
@@ -157,7 +162,7 @@
           <div class="col-lg-6">
             <div class="about__content" data-aos="fade-left" data-aos-duration="800">
               <div class="about__content-inner">
-                <h2>Meet <span>our company</span></h2>
+                <h1>Meet <span>our company</span></h1>
 
                 <p class="mb-0">Founded in <strong>2016, Alpha Tradenery</strong> has established itself as one of the 
                   <strong>No.1 Best Trading Services in India</strong>, <strong>Dubai & Nepal</strong>. We specialize in <strong>live forex signals</strong>, <strong>VIP

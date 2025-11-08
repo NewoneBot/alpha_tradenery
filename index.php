@@ -38,7 +38,7 @@
 <meta property="og:site_name" content="Alpha Tradenery">
 <meta property="og:locale" content="en_IN">
 <meta property="og:type" content="website">
-<meta property="og:image" content="https://freelancesociety.in/images/web-design-development-banner.jpg">
+<meta property="og:image" content="assets/images/web-design-development-banner.jpg">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
 <meta property="og:image:alt" content="No.1 Best Trading Services in India, Dubai & Nepal | Live Forex Signals Dubai | VIP Forex Signals Provider">
@@ -47,20 +47,20 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="No.1 Best Trading Services in India, Dubai & Nepal">
 <meta name="twitter:description" content="Looking for the No.1 Best Trading Services in India, Dubai & Nepal? We provide the most reliable and professional forex trading signals designed for consistent profits. Get access to Best live forex signals Dubai, VIP forex signals provider Dubai, and Gold forex signal group Dubai — all trusted by top traders.">
-<meta name="twitter:image" content="https://freelancesociety.in/images/web-design-development-banner.jpg">
+<meta name="twitter:image" content="assets/images/web-design-development-banner.jpg">
 
 <!-- Verification Tags -->
 <meta name="google-site-verification" content="replace-this-with-your-google-verification-code">
 <meta name="yandex-verification" content="replace-this-with-your-yandex-verification-code">
 
 <!-- Favicons -->
-<link rel="icon" href="https://freelancesociety.in/image/logo.png" type="image/png">
-<link rel="icon" href="https://freelancesociety.in/image/logo/favicon-16x16.png" sizes="16x16" type="image/png">
-<link rel="icon" href="https://freelancesociety.in/image/logo/favicon-32x32.png" sizes="32x32" type="image/png">
-<link rel="icon" href="https://freelancesociety.in/image/logo/android-chrome-192x192.png" sizes="192x192" type="image/png">
-<link rel="icon" href="https://freelancesociety.in/image/logo/android-chrome-512x512.png" sizes="512x512" type="image/png">
-<link rel="apple-touch-icon" href="https://freelancesociety.in/image/logo/apple-touch-icon.png" sizes="180x180">
-<link rel="manifest" href="https://freelancesociety.in/image/logo/site.webmanifest">
+<link rel="icon" href="assets/images/logo/APfavicon.ico" type="image/png">
+<link rel="icon" href="assets/images/logo/favicon-16x16.png" sizes="16x16" type="image/png">
+<link rel="icon" href="assets/images/logo/favicon-32x32.png" sizes="32x32" type="image/png">
+<link rel="icon" href="assets/images/logo/android-chrome-192x192.png" sizes="192x192" type="image/png">
+<link rel="icon" href="assets/images/logo/APlogo1.png" sizes="512x512" type="image/png">
+<link rel="apple-touch-icon" href="assets/images/logo/apple-touch-icon.png" sizes="180x180">
+<link rel="manifest" href="assets/images/logo/site.webmanifest">
 
 
 
@@ -179,7 +179,7 @@
                   </div>
                 </div>
                 <div class="about__content-details">
-                  <h5>Best Trading Services in India, Dubai & Nepal</h5>
+                  <h3>Best Trading Services in India, Dubai & Nepal</h3>
                   <p class="mb-0">Access the <strong>Best Paid Forex Signals Provider in India</strong> for professional and reliable trading insights</p>
                 </div>
               </div>
@@ -192,7 +192,7 @@
                   </div>
                 </div>
                 <div class="about__content-details">
-                  <h5>Comprehensive Forex & Gold Coverage</h5>
+                  <h3>Comprehensive Forex & Gold Coverage</h3>
                   <p class="mb-0">Trade confidently with <strong>VIP Forex</strong>, <strong>Gold Signals</strong>, and <strong>Forex Account</strong> management services</p>
                 </div>
               </div>
@@ -205,7 +205,7 @@
                   </div>
                 </div>
                 <div class="about__content-details">
-                  <h5>Live Daily Updates </h5>
+                  <h3>Live Daily Updates </h3>
                   <p class="mb-0">Stay ahead with <strong>Live Daily Forex Signals India</strong> and real-time market alerts for profitable trades.
                   </p>
                 </div>
@@ -250,7 +250,7 @@
                   <img class="dark" src="assets/images/service/1.png" alt="service-icon">
                 </div>
                 <div class="service__item-content">
-                  <h5> <a class="stretched-link" href="service-details.html">Gold VIP Signal</a> </h5>
+                  <h3> <a class="stretched-link" href="service-details.html">Gold VIP Signal</a> </h3>
                   <p class="mb-0">Get the <strong>best gold forex signals in Dubai</strong> and <strong>live gold trading alerts</strong> directly from experts. Join our </strong>Gold Forex Signal Group Dubai</strong> to maximize profits with accurate, real-time insights and expert strategies trusted by traders worldwide.</p>
                 </div>
               </div>
@@ -263,7 +263,7 @@
                   <img class="dark" src="assets/images/service/2.png" alt="service-icon">
                 </div>
                 <div class="service__item-content">
-                  <h5> <a class="stretched-link" href="service-details.html">Forex VIP Signal</a> </h5>
+                  <h3> <a class="stretched-link" href="service-details.html">Forex VIP Signal</a> </h3>
                   <p class="mb-0">Experience <strong>No.1 Best Trading Services in India</strong>, <strong>Dubai & Nepal</strong> with our premium <strong>VIP Forex Signals</strong>. We provide <strong>live forex signals Dubai</strong>, <strong>professional forex trading signals India</strong>, and <strong>free VIP forex signals Nepal</strong> — helping you make smart, confident trading decisions every day.
                   </p>
                 </div>
@@ -277,7 +277,7 @@
                   <img class="dark" src="assets/images/service/3.png" alt="service-icon">
                 </div>
                 <div class="service__item-content">
-                  <h5> <a class="stretched-link" href="service-details.html">Indices VIP Signal</a> </h5>
+                  <h3> <a class="stretched-link" href="service-details.html">Indices VIP Signal</a> </h3>
                   <p class="mb-0">Trade smarter with our <strong>Indices Market Signals Dubai</strong> and <strong>reliable forex signals Nepal live</strong>. Stay updated with precise signals for global indices, ensuring you never miss a profitable opportunity in the <strong>UAE Forex Dubai</strong> market.</p>
                 </div>
               </div>
@@ -290,8 +290,8 @@
                   <img class="dark" src="assets/images/service/4.png" alt="service-icon">
                 </div>
                 <div class="service__item-content">
-                  <h5> <a class="stretched-link" href="service-details.html">Account Management</a>
-                  </h5>
+                  <h3> <a class="stretched-link" href="service-details.html">Account Management</a>
+                  </h3>
                   <p class="mb-0">Let our experts handle your portfolio with <strong>account management forex Dubai</strong> and personalized strategies for steady growth. Whether you trade <strong>Gold</strong>, <strong>Forex</strong>, or <strong>Indices</strong>, our professionals manage everything for consistent and risk-controlled returns.</p>
                 </div>
               </div>
@@ -466,7 +466,7 @@ Your trading partner across India, Dubai & Nepal.
                     <div class="roadmap__item active">
                       <div class="roadmap__item-inner roadmap__item-inner--vertical-line-bottom">
                         <div class="roadmap__item-content">
-                          <h5>Join Telegram Channel</h5>
+                          <h4>Join Telegram Channel</h4>
                           <p>Clients join the exclusive Telegram channel to get access to real-time trading signals.</p>
                         </div>
                         <div class="roadmap__item-date">
@@ -479,7 +479,7 @@ Your trading partner across India, Dubai & Nepal.
                     <div class="roadmap__item roadmap__item--reverse">
                       <div class="roadmap__item-inner roadmap__item-inner--vertical-line-top">
                         <div class="roadmap__item-content">
-                          <h5>Receive Daily Trading Signals</h5>
+                          <h4>Receive Daily Trading Signals</h4>
                           <p> Daily buy and sell signals are shared to help clients make informed trading decisions.</p>
                         </div>
                         <div class="roadmap__item-date">
@@ -492,7 +492,7 @@ Your trading partner across India, Dubai & Nepal.
                     <div class="roadmap__item">
                       <div class="roadmap__item-inner roadmap__item-inner--vertical-line-bottom">
                         <div class="roadmap__item-content">
-                          <h5>Trade According to Signals</h5>
+                          <h4>Trade According to Signals</h4>
                           <p>Clients execute trades on their preferred platform based on the provided signals.</p>
                         </div>
                         <div class="roadmap__item-date">
@@ -505,7 +505,7 @@ Your trading partner across India, Dubai & Nepal.
                     <div class="roadmap__item roadmap__item--reverse">
                       <div class="roadmap__item-inner roadmap__item-inner--vertical-line-top">
                         <div class="roadmap__item-content">
-                          <h5>Book Profits</h5>
+                          <h4>Book Profits</h4>
                           <p>By following accurate signals, clients aim to maximize their trading profits consistently.</p>
                         </div>
                         <div class="roadmap__item-date">

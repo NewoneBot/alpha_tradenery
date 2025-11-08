@@ -1,9 +1,6 @@
 <!DOCTYPE html>
 <html lang="en" data-bs-theme="light">
 
-
-<!-- Mirrored from thetork.com/demos/html/bitrader/contact.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 10 Oct 2025 18:47:54 GMT -->
-<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
 <head>
   <title>Bitrader - Professional Multipurpose HTML Template for Your Crypto, Forex, Stocks & Day Trading Business
   </title>
@@ -29,17 +26,18 @@
   <meta property="og:type" content="website">
   <meta property="og:image" content="assets/images/og.png">
 
-
-
-  <link rel="shortcut icon" href="assets/images/logo/APfavicon.png" type="image/x-icon">
-
+<!-- Favicons -->
+<link rel="icon" href="assets/images/logo/APfavicon.ico" type="image/png">
+<link rel="icon" href="assets/images/logo/favicon-16x16.png" sizes="16x16" type="image/png">
+<link rel="icon" href="assets/images/logo/favicon-32x32.png" sizes="32x32" type="image/png">
+<link rel="icon" href="assets/images/logo/android-chrome-192x192.png" sizes="192x192" type="image/png">
+<link rel="icon" href="assets/images/logo/APlogo1.png" sizes="512x512" type="image/png">
+<link rel="apple-touch-icon" href="assets/images/logo/apple-touch-icon.png" sizes="180x180">
+<link rel="manifest" href="assets/images/logo/site.webmanifest">
   <link rel="stylesheet" href="assets/css/bootstrap.min.css">
   <link rel="stylesheet" href="assets/css/aos.css">
   <link rel="stylesheet" href="assets/css/all.min.css">
-
   <link rel="stylesheet" href="assets/css/swiper-bundle.min.css">
-
-
 
   <!-- main css for template -->
   <link rel="stylesheet" href="assets/css/style.css">
@@ -53,13 +51,9 @@
   </div>
   <!-- ===============>> Preloader end here <<================= -->
 
-
-
   <!-- ===============>> Header section start here <<================= -->
   <?php include 'header.php' ?>
   <!-- ===============>> Header section end here <<================= -->
-
-
 
   <!-- ================> Page header start here <================== -->
   <section class="page-header bg--cover" style="background-image:url(assets/images/header/1.png)">
@@ -81,9 +75,85 @@
   </section>
   <!-- ================> Page header end here <================== -->
 
+  <!-- ================> Custom Contact Info Block (assistant-written content, contains H1..H6) <================== -->
+  <section class="contact-info-block padding-top padding-bottom">
+    <div class="container">
+      <div class="row justify-content-center">
+        <div class="col-lg-10">
+          <div class="card p-4" data-aos="fade-up" data-aos-duration="900">
 
+            <!-- H1 -->
+            <h1 class="mb-3">Get Help — AlphaTrade Support & Services</h1>
 
+            <!-- H2 -->
+            <h2 class="h5 text-muted mb-3">Contact channels, office locations and quick support details</h2>
 
+            <!-- H3 -->
+            <h3 class="mt-3">Fast Support Channels</h3>
+            <p>We offer multiple ways to reach us: phone, email, Telegram, and live chat. Choose the channel that suits you and
+              our team will guide you through account setup, signal subscriptions, or service queries.</p>
+
+            <!-- H4 -->
+            <h4 class="mt-3">Regional Offices</h4>
+            <p>We operate regionally to better serve clients in India, UAE (Dubai) and Nepal with localized timings and market
+              insight. Our regional teams focus on timely responses and market-aware advice.</p>
+
+            <!-- H5 -->
+            <h5 class="mt-3">Hours & Response</h5>
+            <p>Support is monitored daily. For non-urgent queries, use email; for time-sensitive issues use call or Telegram.
+              Emergency assistance is routed to on-duty account managers.</p>
+
+            <!-- H6 FAQ heading examples -->
+            <div class="mt-4">
+              <h2 class="mb-2">Quick FAQs</h2>
+
+              <div class="mb-2">
+                <h6 class="mb-1">1. How can I contact support right now?</h6>
+                <p class="mb-0">Call our helpline at <strong>+91 89742 00664</strong>, email <strong>alphatradenery@gmail.com</strong>, or message our Telegram support link (found on the site footer).</p>
+              </div>
+
+              <div class="mb-2">
+                <h6 class="mb-1">2. What information should I include in a support request?</h6>
+                <p class="mb-0">Please include your name, registered email/phone, account ID (if any), a brief description of the
+                  issue, and screenshots if relevant. This helps us resolve your request faster.</p>
+              </div>
+
+              <div class="mb-2">
+                <h6 class="mb-1">3. Do you provide account setup assistance?</h6>
+                <p class="mb-0">Yes — our onboarding team helps with account configuration, platform access, and connecting to
+                  signal channels. Ask for "Onboarding Support" when you contact us.</p>
+              </div>
+
+            </div>
+
+            <!-- small contact cards -->
+            <div class="row mt-4">
+              <div class="col-md-4">
+                <div class="border rounded p-3 h-100">
+                  <strong>Phone</strong>
+                  <p class="mb-0">+91 89742 00664</p>
+                </div>
+              </div>
+              <div class="col-md-4">
+                <div class="border rounded p-3 h-100">
+                  <strong>Email</strong>
+                  <p class="mb-0">alphatradenery@gmail.com</p>
+                </div>
+              </div>
+              <div class="col-md-4">
+                <div class="border rounded p-3 h-100">
+                  <strong>Telegram</strong>
+                  <p class="mb-0">t.me/AlphaTradeSupport (link in footer)</p>
+                </div>
+              </div>
+            </div>
+
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- ================> Custom Contact Info Block end <================== -->
 
   <!-- ===============>> Contact section start here <<================= -->
   <div class="contact padding-top padding-bottom">
@@ -133,21 +203,12 @@
                     </div>
                     <div class="contact__item-content">
                       <p>
+                        alphatradenery@gmail.com
                       </p>
                     </div>
                   </div>
                 </div>
-                <div class="contact__item" data-aos="fade-right" data-aos-duration="1200">
-                  <div class="contact__item-inner">
-                    <div class="contact__item-thumb">
-                      <span><img src="assets/images/contact/3.png" alt="contact-icon" class="dark"></span>
-                    </div>
-                    <div class="contact__item-content">
-                      <p>
-                      </p>
-                    </div>
-                  </div>
-                </div>
+
               </div>
             </div>
           </div>
@@ -189,22 +250,15 @@
       <span class="contact__shape-item contact__shape-item--2"> <span></span> </span>
     </div>
   </div>
-  <!-- ===============>> Contact section start here <<================= -->
-
-
-
-
+  <!-- ===============>> Contact section end here <<================= -->
 
   <!-- ===============>> footer start here <<================= -->
   <?php include 'footer.php' ?>
   <!-- ===============>> footer end here <<================= -->
 
-
-
   <!-- ===============>> scrollToTop start here <<================= -->
   <a href="#" class="scrollToTop scrollToTop--style1"><i class="fa-solid fa-arrow-up-from-bracket"></i></a>
   <!-- ===============>> scrollToTop ending here <<================= -->
-
 
   <!-- vendor plugins -->
 
@@ -215,13 +269,8 @@
   <script src="assets/js/fslightbox.js"></script>
   <script src="assets/js/purecounter_vanilla.js"></script>
 
-
-
   <script src="assets/js/custom.js"></script>
-
 
 </body>
 
-
-<!-- Mirrored from thetork.com/demos/html/bitrader/contact.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 10 Oct 2025 18:47:55 GMT -->
 </html>
