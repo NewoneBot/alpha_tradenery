@@ -46,18 +46,26 @@
                   <div>
                     <ul class="social">
                       <li class="social__item">
-                        <a
-                          href="#"
-                          class="social__link social__link--style5 active"
-                          ><i class="fab fa-facebook-f"></i
-                        ></a>
-                      </li>
+  <a
+    href="https://www.facebook.com/share/14MUTVbzrt4/?mibextid=wwXIfr"
+    class="social__link social__link--style5 active"
+    target="_blank"
+    rel="noopener noreferrer"
+  >
+    <i class="fab fa-facebook-f"></i>
+  </a>
+</li>
+
                       <li class="social__item">
-                        <a href="#" class="social__link social__link--style5"
-                          ><i class="fab fa-instagram"></i
-                        ></a>
-                      </li>
-                      <li class="social__item">
+  <a href="https://www.instagram.com/alphatradenery?igsh=MWltMXMyN3FzNWRz&utm_source=qr" 
+     class="social__link social__link--style5" 
+     target="_blank" 
+     rel="noopener noreferrer">
+    <i class="fab fa-instagram"></i>
+  </a>
+</li>
+
+                      <!-- <li class="social__item">
                         <a href="#" class="social__link social__link--style5"
                           ><i class="fa-brands fa-linkedin-in"></i
                         ></a>
@@ -71,7 +79,7 @@
                         <a href="#" class="social__link social__link--style5"
                           ><i class="fab fa-twitter"></i
                         ></a>
-                      </li>
+                      </li> -->
                     </ul>
                   </div>
                 </div>

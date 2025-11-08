@@ -39,6 +39,7 @@
 <link rel="icon" href="assets/images/logo/APlogo1.png" sizes="512x512" type="image/png">
 <link rel="apple-touch-icon" href="assets/images/logo/apple-touch-icon.png" sizes="180x180">
 <link rel="manifest" href="assets/images/logo/site.webmanifest">
+
   <link rel="stylesheet" href="assets/css/bootstrap.min.css">
   <link rel="stylesheet" href="assets/css/aos.css">
   <link rel="stylesheet" href="assets/css/all.min.css">
